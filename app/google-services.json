@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352438369456",
+    "project_id": "bottomnavyt-5c05d",
+    "storage_bucket": "bottomnavyt-5c05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352438369456:android:1f4cc545667385b2800f75",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352438369456-4fj02qlrrc7egl33iu0n0lhntfsbeg9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwutmNNlHaytslp39bFGB8ofNiM30UpVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352438369456-4fj02qlrrc7egl33iu0n0lhntfsbeg9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

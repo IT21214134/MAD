@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoneyGuard</string>
+    <string name="signIn_text">Sign In</string>
+    <string name="signUp_text">Sign Up</string>
+    <string name="email_hint_text">Enter your email</string>
+    <string name="enter_password_text">Enter password</string>
+    <string name="confirm_password_text">Confirm password</string>
+    <string name="signUp_email_text">Enter your email</string>
+    <string name="signUp_password_text">Enter your password</string>
+    <string name="get_signUp_button_text">Dont have an account?</string>
+    <string name="title_activity_bottom_navigation">Bottom_navigation</string>
+    <string name="title_home">Expenses</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Incomes</string>
+</resources>

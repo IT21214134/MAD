@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashbord"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:title="Income"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_paid_24"/>
+<!--    <item android:title="Expenses"-->
+<!--        android:id="@+id/income"-->
+<!--        android:icon="@drawable/ic_baseline_paid_24"/>-->
+    <item android:title="Expenses"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_paid_24"/>
+
+
+</menu>
